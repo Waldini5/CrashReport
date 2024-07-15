@@ -8,3 +8,5 @@ My brother PC spec:
 AMD Ryzen 5 3600X
 Rx 5700xt
 RAM: 4x8GB DDR4 3200MHz CL16
+
+Java version: 8 update 411
